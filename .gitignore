@@ -1,0 +1,36 @@
+# Maven target directory
+target/
+
+# Eclipse IDE files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Visual Studio Code settings
+.vscode/
+
+# Compiled bytecode
+*.class
+
+# Logs
+*.log
+
+# User-specific files
+.idea/
+*.suo
+*.user
+*.sln.docstates
+
+# macOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+
+# Kotlin build directory
+out/
+
